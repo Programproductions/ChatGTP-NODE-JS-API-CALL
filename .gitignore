@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 .env
-node_modules/**
-=======
-.env
-node_modules/**
->>>>>>> 1a9b82025327486993bf619456275f126208d822
+node_modules
